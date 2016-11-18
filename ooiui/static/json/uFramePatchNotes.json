@@ -1,6 +1,6 @@
 [
     {
-        "VersionNumber":"uframe_ooi_20161027_f6f2d988a971370b0504652023e7e3b90e5ad651",
+        "VersionNumber":"V 1.0.0",
         "VersionDescription":["Jenkins Nightly Package #142",
             "Issue #11370 Correct 2 dimensional calibration data row/col order.  Remove commented code.",
             "Issue #1006 Update Preload submodule",
