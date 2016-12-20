@@ -14,15 +14,15 @@
             “Issue 11621 Code Stream Engine Manager to restart product requests/sub-requests if stream_engines terminate.”,
             “Issue 11639 Add waterDepth attribute; support for renamed depth column in spreadsheet.”,
             “Issue 8604 Modify for local range data - parser rewrite.”,
-           “Issue 11168 Added new tables for the new DOSTA and FLORD streams for the CTDBP-P.”,
-           “Issue 11528 Expose Stream Engine method to directly serve parsed data.  Modified to default execDPA to true.”,
-           “Issue 11299 EDEX web services should provide access log.  Modified to fix formatting.”,
-           “Issue 11519 Added webservice support for status reporting.”,
-           “Issue 11347 Add ReferenceDesignator to subsite/metadata query response.”,
-           “Issue 11382 Create Preload Tools - Preload updates made due to validate_preload_csv.py updates.”,
-           “Issue 11439 Added logic to check number of jobs for a specific user before adding more jobs.”,
-           “Issue 11431 Correct asset discovery in deployment population.”,
-           “Issue 11455 Annotation column length insufficient.”
+            “Issue 11168 Added new tables for the new DOSTA and FLORD streams for the CTDBP-P.”,
+            “Issue 11528 Expose Stream Engine method to directly serve parsed data.  Modified to default execDPA to true.”,
+            “Issue 11299 EDEX web services should provide access log.  Modified to fix formatting.”,
+            “Issue 11519 Added webservice support for status reporting.”,
+            “Issue 11347 Add ReferenceDesignator to subsite/metadata query response.”,
+            “Issue 11382 Create Preload Tools - Preload updates made due to validate_preload_csv.py updates.”,
+            “Issue 11439 Added logic to check number of jobs for a specific user before adding more jobs.”,
+            “Issue 11431 Correct asset discovery in deployment population.”,
+            “Issue 11455 Annotation column length insufficient.”
                 ]
     }
   ]
